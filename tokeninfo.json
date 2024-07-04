@@ -1,0 +1,12 @@
+{
+    "name": "Seven Seas Gold",
+    "symbol": "GOLD",
+    "description": "Gold from the Seven Seas.",
+    "image": "https://bafybeihkc3tu4ugc5camayoqw7tl2lahtzgm2kpiwps3itvfsv7zcmceji.ipfs.nftstorage.link/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      }
+    ]
+  }
